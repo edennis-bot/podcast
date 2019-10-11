@@ -26,8 +26,8 @@ Episode ideas:
 9. Ethics related stuff
 
 ### What is the format?
-1. Interview style
-2. Length?
+1. Interview style: Answering set questions
+2. Length: 20-30 mins
 3. Stories including multiple interviews
 4. Regular schedule
 5. But some flexibility for breaking stories
