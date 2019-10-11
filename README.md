@@ -47,6 +47,17 @@ Episode ideas:
 4. James G
 5. Radka
 6. Sarah
+7. Specific people who want to talk about themes
+
+### How to get people to talk?
+1. Pick themes
+2. Ask them on slack etc
+
+### Themes
+1. General: What is AI
+2. REG project: NATS
+3. News one: Chinese ultra-camera facial recognition: https://www.independent.co.uk/life-style/gadgets-and-tech/news/china-surveillance-camera-facial-recognition-privacy-a9131871.html
+4. Turing program: Living with machines, what's changed, what will change
 
 ### How should we involve Comms team?
 1. Can they give us recording equipment?
