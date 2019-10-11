@@ -70,3 +70,4 @@ Episode ideas:
 4. YouTube
 5. Institute website
 6. Apple
+7. To begin with, could have a GitHub pages site generated from the repo with just a homepage and SoundCloud widgets for the episodes and links to all of the other podcast streaming services
