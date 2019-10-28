@@ -1,6 +1,15 @@
 Alan Turing Institute/ REG team Podcast Ideas
 =====
 
+Interesting articles
+-------
+
+- [Independent: China Facial Recognition AI](https://www.independent.co.uk/life-style/gadgets-and-tech/news/china-surveillance-camera-facial-recognition-privacy-a9131871.html)
+- [BBC: AI research is not Terminator](https://www.bbc.co.uk/news/technology-50166357)
+
+Notes from getting started in October 2019
+--------
+
 ### Who is it for?
 1. General public? - Leaning to this
 2. Data scientists?
