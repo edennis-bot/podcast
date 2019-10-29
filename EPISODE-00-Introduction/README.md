@@ -21,7 +21,6 @@ We’re here in London, in the beautiful British Library. Ed, Tarek, how’re yo
 In my experience, scientists love to talk, so to keep things brief I’ve got my timer here, and I’m going to step in whenever your answers start to get out of hand.
 
 1. Whats the deal with deal with artificial intelligence? Why can't people agree on how to define AI, and what counts?
-- ED - I guess part of this comes down to having to define intelligence, which gets a bit philosophical.
 
 2. According to Neil Lawrence, a professor of machine learning at the University of Cambridge, it would be more appropriate to call a lot of today's AI technology "computers and statistics". What's he getting at?
 
@@ -46,6 +45,10 @@ In my experience, scientists love to talk, so to keep things brief I’ve got my
 13. People are claiming that we need our AI to be explainable, autidable and transparent, if they're going to making increasingly impactful decisions - what does this mean, and why is it so difficult?
 
 14. As AI's used more and more across society, who's responsible for the decisions they're making? Is it the people who write the algorithms, or the people who train them?
+
+15. Why are people scared about AI going wrong, or turning on us?
+
+16. What do you hope is the next step, or milestone, for the use of AI in data science? How is the Turing working towards that goal?
 
 
 
