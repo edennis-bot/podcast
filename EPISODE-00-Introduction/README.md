@@ -6,9 +6,47 @@ Survey fill out [link](http://bit.ly/2MozP5x). Results [link](https://docs.googl
 
 # Questions for Ed and Tarek
 
-1. Why can't people agree on how to define Artificial Intelligence or what counts as AI? I guess part of this comes down to having to define intelligence, which gets a bit philosophical.
-2. According to Neil Lawrence at the University of Cambridge, it would be more appropriate to call a lot of today's AI technology "computers and statistics". What's he getting at?
-3. Do you think that when the general public hear "AI" or "Artificial Intellligence", they're thinking of Terminator or The Matrix and other films like that, or is proliferation of AI news articles changing people's views?
-4. Nowadays a lot of algorithms used for the kind of data science and statistics problems you guys work on are being grouped under the umbrella term "Machine Learning" or "ML". Is this categorisation helpful, or is it another definition problem like AI we'd need an entire podcast episode on?
-5. I've heard the term "narrow AI" before, is that one you're familiar with?
+Hello, and welcome to the Turing. This series of podcasts is coming to you from the Alan Turing Institute, the UK’s national institute for data science and artificial intelligence.
+
+Over the course of the next few months, we’ll be having a chat about some of the hard questions facing data scientists around the world.
+
+We’ll also be looking at how researchers at the Turing are hoping to use AI to tackle some of today’s tough challenges, from revolutionising disease diagnosis to taking better care of our national infrastructure using ‘smart’ digital twins.
+
+In this first week, we’ll be looking at what actually is AI - why there’s some controversy over how the term is used, and where do we go from here?
+
+So who are we? I’m Ben Walden, your host, and I’m here with Ed Chalstrey, a member of our Research Software Engineering group here at the Turing, with a background in developing software to aid drug development; and Tarek Allam a Turing doctoral student working on the Large Synoptic Survey Telescope. 
+
+We’re here in London, in the beautiful British Library. Ed, Tarek, how’re you both feeling this chilly Friday morning? 
+
+In my experience, scientists love to talk, so to keep things brief I’ve got my timer here, and I’m going to step in whenever your answers start to get out of hand.
+
+1. Whats the deal with deal with artificial intelligence? Why can't people agree on how to define AI, and what counts?
+- ED - I guess part of this comes down to having to define intelligence, which gets a bit philosophical.
+
+2. According to Neil Lawrence, a professor of machine learning at the University of Cambridge, it would be more appropriate to call a lot of today's AI technology "computers and statistics". What's he getting at?
+
+3. Do you think that when the general public hear "Artificial Intelligence", they're thinking of  Terminator and the Matrix, or are people a bit more clued up as to whats going on?
+
+4. Nowadays, a lot of algorithms used for the kind of data science and statistics problems you guys work on are being grouped under the umbrella term "Machine Learning" or "ML". Is this  helpful, or is it another definition problem we'd need an entire podcast episode on?
+
+5. I've heard the term "narrow AI" before. How does narrow AI differ from "general AI"? Where are we now?
+
 6. The Alan Turing Institute, where we all work, is the UK national institute for data science and AI; What's the definition of AI that makes most sense in *our* context as researchers? I think listeners should bear mind your answer when we talk about specific research projects in future episodes.
+
+7. Bit of an open question - Whats your favourite example of AI research being done at the Turing right now?
+
+8. We did a poll of the research fellows at the Turing about when, if ever, we might see the creation of AGI. We found that most fellows don't expect to see a true artificial general intelligence first being built for at least a few hundered years, with several claiming it'll take more than a thousand. We also got quite a few angry replies about how stupid our poll was! Why so long for an AGI to be built?
+
+9. Whats an example of a skill that a human can do that an AI can't yet, and why could it take robots a while to catch up?
+
+10. What is the Turing test?
+
+11. So with it being so long before AI can pass as a humans, can we stop worrying about robots taking our jobs, or is there still good reason to worry?
+
+13. People are claiming that we need our AI to be explainable, autidable and transparent, if they're going to making increasingly impactful decisions - what does this mean, and why is it so difficult?
+
+14. As AI's used more and more across society, who's responsible for the decisions they're making? Is it the people who write the algorithms, or the people who train them?
+
+
+
+
