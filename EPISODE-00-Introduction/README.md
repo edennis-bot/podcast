@@ -38,9 +38,9 @@ In my experience, scientists love to talk, so to keep things brief I’ve got my
 
 9. Whats an example of a skill that a human can do that an AI can't yet, and why could it take robots a while to catch up?
 
-10. What is the Turing test?
+10. What is the Turing test? - (*Ed comment: possibly beyond scope of ep 1*)
 
-11. So with it being so long before AI can pass as a humans, can we stop worrying about robots taking our jobs, or is there still good reason to worry?
+11. So with it being so long before AI can pass as a humans, can we stop worrying about robots taking our jobs, or is there still good reason to worry? - (*Ed comment: possibly beyond scope of ep 1*)
 
 13. People are claiming that we need our AI to be explainable, autidable and transparent, if they're going to making increasingly impactful decisions - what does this mean, and why is it so difficult?
 
