@@ -12,9 +12,9 @@ Over the course of the next few months, we’ll be having a chat about some of t
 
 We’ll also be looking at how researchers at the Turing are hoping to use AI to tackle some of today’s tough challenges, from revolutionising disease diagnosis to taking better care of our national infrastructure using ‘smart’ digital twins.
 
-In this first week, we’ll be looking at what actually is AI - why there’s some disagreement over how the definition, and where do we go from here?
+Today, we’ll be chatting about what artificial intelligence actually means to us, and what people mean when they say "AI research".
 
-So who are we? I’m Ben Walden, your host, and I’m here with Ed Chalstrey, a member of our Research Software Engineering group here at the Turing, with a background in developing software to aid drug development; and Tarek Allam a Turing doctoral student working on the Large Synoptic Survey Telescope. 
+But first, who are we? I’m Ben Walden, your host, and I’m here with Ed Chalstrey, a member of our Research Software Engineering group here at the Turing, with a background in developing software to aid drug development; and Tarek Allam a Turing doctoral student working on the Large Synoptic Survey Telescope.
 
 We’re here in London, in the beautiful British Library. Ed, Tarek, how’re you both feeling this chilly Friday morning? 
 
