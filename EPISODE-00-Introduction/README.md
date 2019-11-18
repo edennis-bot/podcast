@@ -22,7 +22,7 @@ In my experience, scientists love to talk, so to keep things brief I’ve got my
 
 0. What are the applications of AI we're going to be talking about on this podcast?
 
-2. According to Neil Lawrence, a professor of machine learning at the University of Cambridge, it would be more appropriate to call a lot of today's AI technology "computers and statistics". What's he getting at?
+2. I read an article recently in which a professor of machine learning suggested it would be more appropriate to call a lot of today's AI technology "computers and statistics". What's he getting at?
 
 3. Do you think that when the general public hear "Artificial Intelligence", they're thinking of  Terminator and the Matrix, or are people a bit more clued up as to whats going on?
 
