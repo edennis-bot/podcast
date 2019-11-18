@@ -10,9 +10,9 @@ Hello, and welcome to the Turing Podcast. This series of podcasts is coming to y
 
 Over the course of the next few months, we’ll be having a chat about some of the hard questions facing data scientists around the world.
 
-We’ll also be looking at how researchers at the Turing are hoping to use AI to tackle some of today’s tough challenges, from revolutionising disease diagnosis to taking better care of our national infrastructure using ‘smart’ digital twins.
+We’ll also be looking at how researchers at the Turing are hoping to use AI to tackle some of today’s tough challenges, from revolutionising disease diagnosis to taking better care of our national infrastructure using ‘smart’ digital models.
 
-Today, we’ll be chatting about what artificial intelligence actually means to us, and what people mean when they say "AI research".
+Today, we’ll be chatting about what artificial intelligence actually is to us at the Turing, and what people mean when they say "AI research".
 
 But first, who are we? I’m Ben Walden, your host, and I’m here with Ed Chalstrey, a member of our Research Software Engineering group here at the Turing, with a background in developing software to aid drug development; and Tarek Allam a Turing doctoral student working on the Large Synoptic Survey Telescope.
 
