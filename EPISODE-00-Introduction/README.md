@@ -22,11 +22,11 @@ In my experience, scientists love to talk, so to keep things brief I’ve got my
 
 0. What are the applications of AI we're going to be talking about on this podcast?
 
-1. Whats the deal with deal with artificial intelligence? Why can't people agree on how to define AI, and what counts?
-
 2. According to Neil Lawrence, a professor of machine learning at the University of Cambridge, it would be more appropriate to call a lot of today's AI technology "computers and statistics". What's he getting at?
 
 3. Do you think that when the general public hear "Artificial Intelligence", they're thinking of  Terminator and the Matrix, or are people a bit more clued up as to whats going on?
+
+1. Whats the deal with deal with artificial intelligence? Why can't people agree on how to define AI, and what counts?
 
 4. Nowadays, a lot of algorithms used for the kind of data science and statistics problems you guys work on are being grouped under the umbrella term "Machine Learning" or "ML". Is this  helpful, or is it another definition problem we'd need an entire podcast episode on?
 
