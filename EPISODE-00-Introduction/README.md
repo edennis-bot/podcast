@@ -20,6 +20,8 @@ We’re here in London, in the beautiful British Library. Ed, Tarek, how’re yo
 
 In my experience, scientists love to talk, so to keep things brief I’ve got my timer here, and I’m going to step in whenever your answers start to get out of hand.
 
+0. What are the applications of AI we're going to be talking about on this podcast?
+
 1. Whats the deal with deal with artificial intelligence? Why can't people agree on how to define AI, and what counts?
 
 2. According to Neil Lawrence, a professor of machine learning at the University of Cambridge, it would be more appropriate to call a lot of today's AI technology "computers and statistics". What's he getting at?
