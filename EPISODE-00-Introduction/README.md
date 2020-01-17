@@ -6,7 +6,7 @@ Survey fill out [link](http://bit.ly/2MozP5x). Results [link](https://docs.googl
 
 # Questions for Ed and Tarek
 
-Hello, and welcome to the Turing Podcast. This series of podcasts is coming to you from the Alan Turing Institute, the UK’s national institute for data science and artificial intelligence.
+Hello, and welcome to Hut 23. This series of podcasts is coming to you from the Alan Turing Institute, the UK’s national institute for data science and artificial intelligence.
 
 Over the course of the next few months, we’ll be having a chat about some of the hard questions facing data scientists around the world.
 
