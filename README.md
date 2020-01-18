@@ -7,6 +7,6 @@ Schedule
 |*Editing session*|Thursday 23rd Jan 2019| N/A|N/A|✅| N/A | N/A |
 | AI in the Sky| Friday 31st Jan 2019|Radka|✅|✅| Tarek | Ed |
 |AIrsenal|Wednesday 5th Feb 2019| Nick/Jack|✅|✅| Ben | Effie |
-| AI for Healthcare | | Bea? Maxine?| | | Ed | Ben |
+| AI for Healthcare | | Bea? Maxine? Mishka?| | | Ed | Ben |
 | Digital Twins in the red light district (aka the bridge) | | Eric| | | Effie | Tarek |
 | Urban agriculture | | Flora/Tomas | | | | |
