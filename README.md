@@ -8,6 +8,6 @@ Schedule
 | AI in the Sky| Friday 31st Jan 2019|Radka|✅|✅| Tarek | Ed |
 |AIrsenal|Wednesday 5th Feb 2019| Nick/Jack|✅|✅| Ben | Effie |
 | The Bridge | | Eric| ✅| | Ed |  |
-| Data science and Astrophysics | | Tarek/Gordon|Effie?| |
+| Data science and Astrophysics | |Tarek/Gordon| ✅| |Effie?| |
 | AI for Healthcare | | Bea? Maxine? Mishka?| | |  |  |
 
