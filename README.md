@@ -9,5 +9,4 @@ Schedule
 |AIrsenal|Wednesday 5th Feb 2019| Nick/Jack|✅|✅| Ben | Effie |
 | The Bridge | | Eric| ✅| | Ed |  |
 | Data science and Astrophysics | |Tarek/Gordon| ✅| |Effie| Tarek|
-| AI for Healthcare | | Bea? Maxine? Mishka?| | |  |  |
 
