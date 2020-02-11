@@ -3,7 +3,7 @@ Schedule
 
 | Episode | Date | Guest | Guest confirmed | Room/Calendar booked | Lead Interviewer | 2nd Interviewer | Recorded| Edited| Release date |
 |---|---|---|---|---|---|---|---|---|---|
-|What is AI?|Friday 17th Jan 2020 | James G| ✅|✅| N/A | N/A ||||
+|What is AI?|Friday 17th Jan 2020 | James G| ✅|✅| N/A | N/A |✅|||
 | AI in the Sky| Friday 31st Jan 2020|Radka|✅|✅| Tarek | Ed |✅|✅|Friday 14th Feb 2020|
 |AIrsenal|Wednesday 5th Feb 2020| Nick/Jack|✅|✅| Ben | Effie |✅|||
 |What is AI? Intro|Tuesday 11th Feb 2020| N/A|N/A|| Ed| Effie ||||
