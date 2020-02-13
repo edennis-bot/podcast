@@ -14,7 +14,7 @@ Schedule
 | AI UK |#8| 24th and 25th March 2020 | ? | | | Ed|?||||
 |One Health Tech|#9|1st April 2020|Maxine|✅|✅||||||
 |Reproducible Science|#10|8th April 2020|Sarah|✅|✅||||||
-||#11|1st May 2020|||✅||||||
+|Ethics of Data Science and AI|#11|1st May 2020|Kirstie|✅|✅||||||
 ||#12|5th May 2020|||✅||||||
 ||#13|12th May 2020|||✅||||||
 ||#14|19th May 2020|||✅||||||
