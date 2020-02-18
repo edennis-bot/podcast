@@ -34,6 +34,7 @@
 |David Silver|DeepMind RL lead|Medium|
 |Demis Hassabis|DeepMind CEO|High|
 |Someone junior at DeepMind?|DeepMind|Low|
+| Judea Pearl | AI researcher UCLA | High|
 | Max Tegmark | Physicist and author of AI book: Life 3.0 | High |
 |Lex Fridman|AI podcast host and AI researcher|High|
 |Gary Marcus| http://garymarcus.com/ |High|
