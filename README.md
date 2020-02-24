@@ -5,7 +5,7 @@ Schedule
 |---|---|---|---|---|---|---|---|---|---|---|
 |What is AI?|#3|Friday 17th Jan 2020 | James G| ✅|✅| N/A | N/A |✅|||
 | AI for the Skies|#1| Friday 31st Jan 2020|Radka|✅|✅| Tarek | Ed |✅|✅|Week of 24th Feb 2020|
-|AIrsenal, the Fanstasy Football AI|#2|Wednesday 5th Feb 2020| Nick|✅|✅| Ben | Effie |✅|||
+|AIrsenal, the Fanstasy Football AI|#2|Wednesday 5th Feb 2020| Nick|✅|✅| Ben | Effie |✅|✅||
 |What is AI? Intro|#3|Tuesday 11th Feb 2020| N/A|N/A|✅| Ed| Effie |✅|||
 | Exoplanets and Supernovas - Astrophysics in the age of big data |#4|Friday 28th Feb 2020 |Tarek/Gordon| ✅| ✅|Ed| Effie||||
 | The Science of Causation|#5| Thursday 5th March 2020| Peter Tennant| ✅ | ✅| Ed | Effie ||||
