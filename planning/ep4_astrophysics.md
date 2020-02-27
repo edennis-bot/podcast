@@ -2,6 +2,16 @@
 
 We are chatting with Tarek Allam and Gordon Yip who are PhD candidates in the Department of Physics and Astronomy at University College London.
 
+## Media round-up
+
+### Powerful antibiotics discovered using AI - nature
+
+- The new antibiotic is called Halicin, a drug originally being investigated as a treatment for diabetes, which has been shown to kill a variety of disease causing bacteria, including some that are resistant to current antibiotics
+- Researchers at MIT discovered Halacin by training a neural network to spot molecules that prevent the growth of E.coli, then using it to predict whether drugs not intended to be used as antibiotics, could in fact inhibit E.coli
+- When Halacin was tested in mice, it's been shown to have a low toxicity and appears to be something that bacteria can't easily develop resistance to
+
+
+
 # Questions
 
 ## For Tarek
