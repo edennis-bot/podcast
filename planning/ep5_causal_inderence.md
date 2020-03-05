@@ -19,3 +19,8 @@ We are chatting with Peter Tennant, a data scientist based at Leeds Institute fo
 4. Why do you think causal inference requires a different philosophy to predictive science?
 5. Why is there a reproducibility crisis in science?
 6. What was the "birth weight paradox"?
+
+
+Bonus q:
+
+Do you think that we'll be able to build better AI and general AIs when causal inference matures as a scientific field or discipline?
