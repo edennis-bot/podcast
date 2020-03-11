@@ -9,7 +9,7 @@ Schedule
 |What is AI? Intro|#3|Tuesday 11th Feb 2020| N/A|N/A|✅| Ed| Effie |✅|||
 | Exoplanets and Supernovas - Astrophysics in the age of big data |#4|Friday 28th Feb 2020 |Tarek/Gordon| ✅| ✅|Ed| Effie|✅|✅||
 | The Science of Causation|#5| Thursday 5th March 2020| Peter Tennant| ✅ | ✅| Ed | Effie |✅|||
-|Chat about Bea's PhD project, event she ran and life as PhD student at Turing|#6|12th March 2020|Bea|✅|✅|Ed|Tarek||||
+|Image analysis in neurodegenerative disease|#6|12th March 2020|Bea|✅|✅|Ed|Tarek||||
 |The Bridge: A Digital Twin in the red light district|#7|19th March 2020|Eric|✅|✅|Ed|Ben (TBC)||||
 | Digital Democracy | #8 | 19th March 2020| Miguel Arana and Rob Procter| ✅ | ✅| Ed | Effie ||||
 | AI UK |#9| 24th and 25th March 2020 | ? | | | Ed|?||||
@@ -17,5 +17,5 @@ Schedule
 |Reproducible Science|#11|8th April 2020|Sarah|✅|✅|Tarek|Ed||||
 |Ethics of Data Science and AI|#12|1st May 2020|Kirstie|✅|✅|Ed|Ben (TBC)||||
 ||#13|5th May 2020|||✅||||||
-||#14|12th May 2020|||✅||||||
+|Tracking Antibiotic resistant microbes|#14|12th May 2020|Victoria Carr|✅|✅||||||
 ||#15|19th May 2020|||✅||||||
